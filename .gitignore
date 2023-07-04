@@ -14,3 +14,6 @@ outputs/results/*
 preds/*
 !preds/.gitkeep
 tmp
+
+*.zip
+*.sif
